@@ -2,8 +2,8 @@ Genetic Tools (GT) adalah pemindai keamanan repository. membantu pengguna menila
 
 Seluruh kodenya sengaja dibiarkan terbuka, tidak dienkripsi maupun disamarkan, karena dibentuk sebagai referensi pembelajaran. Pemilik repo, tidak mengklaim dan menolak untuk sebutan developer dan sejenisnya, Tools ini dibuat hanya untuk efektivitas dalam memeriksa keamanan sebuah repository github dan semacamnya sebelum menggunakannya. Jangan lupa bintangnya, untuk mengingat sebagai kewaspadaan dalam menggunakan repo sembarangan bisa mengundang hal hal yang tidak diinginkan.
 
-# Genetic
+# Repo-ScanGT
 
 Pemindai keamanan repository berbasis terminal.
 
-Panduan instalasi: [INSTALL.md](INSTALL.md)
+Cara Pasang: [INSTALL.md](INSTALL.md)
