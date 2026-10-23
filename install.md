@@ -9,7 +9,7 @@ termux-setup-storage
 cd ~
 git clone https://github.com/USERNAME/genetic.git
 cd genetic
-python genetic.py
+python main.py
 ```
 
 ## Ubuntu
@@ -22,7 +22,7 @@ git clone https://github.com/USERNAME/genetic.git
 cd genetic
 python3 -m venv .venv
 source .venv/bin/activate
-python genetic.py
+python main.py
 ```
 
 Kalau Ingin Dipakai Kembali:
@@ -31,5 +31,5 @@ Kalau Ingin Dipakai Kembali:
 cd genetic
 python3 -m venv .venv
 source .venv/bin/activate
-python genetic.py
+python main.py
 ```
