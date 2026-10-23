@@ -1,5 +1,5 @@
 # Repo-ScanGT
-Genetic Tools (GT) adalah pemindai keamanan repository. membantu pengguna menilai sebuah repo sebelum memasang atau menjalankannya, menganalisis isinya secara statis dan heuristik untuk menghasilkan persentase bahaya, tingkat risiko, temuan pola mencurigakan. Tempel URL repo (GitHub, GitLab, Bitbucket, Codeberg), tekan ENTER, dan dalam hitungan detik Anda mendapat persentase bahaya, analisa risiko, serta rincian isi repo sebelum memasang atau menjalankannya. Cepat, ringan, tanpa dependency eksternal, dan kode repo tidak pernah dijalankan. Hasil pemindaian hanyalah indikator risiko, bukan vonis mutlak, sehingga tetap perlu ditinjau secara manual.
+Genetic Tools (GT) adalah pemindai keamanan repository. membantu pengguna menilai sebuah repo sebelum memasang atau menjalankannya, menganalisis isinya secara statis dan heuristik untuk menghasilkan persentase bahaya, tingkat risiko, temuan pola mencurigakan. Tempel URL repo (GitHub, GitLab, Bitbucket, Codeberg), tekan ENTER, dan dalam hitungan detik Anda mendapat persentase bahaya, analisa risiko, serta rincian isi repo sebelum memasang atau menjalankannya. Cepat, ringan, tanpa dependency eksternal, dan hasil pemindaian hanyalah indikator risiko, bukan vonis mutlak, sehingga tetap perlu ditinjau secara manual.
 
 # TERMUX
 pkg update && pkg upgrade -y
