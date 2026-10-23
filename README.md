@@ -6,4 +6,4 @@ Seluruh kodenya sengaja dibiarkan terbuka, tidak dienkripsi maupun disamarkan, k
 
 Pemindai keamanan repository berbasis terminal.
 
-Cara Pasang Klik: [INSTALL.md](INSTALL.md)
+Cara Pasang Klik: [install.md](install.md)
