@@ -11,7 +11,7 @@ Tempel URL repo (GitHub, GitLab, Bitbucket, Codeberg), tekan ENTER, dan dalam hi
 
 ## Cara Pasang
 
-Untuk Termux, Ubuntu, dan Ubuntu WSL klik ini: [INSTALL.md](INSTALL.md)
+Untuk Termux, Ubuntu, dan Ubuntu WSL klik ini: [install.md](install.md)
 
 
 
