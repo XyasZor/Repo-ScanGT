@@ -1,8 +1,6 @@
 # Repo-ScanGT
 
-Pemindai keamanan repository berbasis terminal.
-
-**Genetic Tools (GT)** membantu pengguna menilai sebuah repository sebelum memasang atau menjalankannya. GT menganalisis isi repo secara statis dan heuristik, lalu menghasilkan persentase bahaya, tingkat risiko, dan daftar temuan pola mencurigakan.
+**Genetic Tools (GT)** membantu pengguna menilai sebuah repository sebelum memasang atau menjalankannya. GT menganalisis isi repo secara statis dan heuristik, lalu menghasilkan persentase bahaya, tingkat risiko, dan daftar temuan pola mencurigakan. Dan juga pemindai keamanan repository berbasis terminal.
 
 Tempel URL repo (GitHub, GitLab, Bitbucket, Codeberg), tekan ENTER, dan dalam hitungan detik kamu mendapat persentase bahaya, analisa risiko, serta rincian isi repo. Cepat, ringan, dan tanpa dependensi eksternal.
 
