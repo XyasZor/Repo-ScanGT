@@ -28,9 +28,19 @@ python main.py
 
 Kalau Ingin Dipakai Kembali:
 
+## Ubuntu
 ```bash
-cd genetic
+cd ~
+cd Genetic
 python3 -m venv .venv
 source .venv/bin/activate
+python main.py
+```
+
+## Termux
+```bash
+pkg update && pkg upgrade -y
+cd ~
+cd Genetic
 python main.py
 ```
