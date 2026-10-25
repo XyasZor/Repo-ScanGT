@@ -4,9 +4,9 @@
 
 ```bash
 pkg update && pkg upgrade -y
+termux-setup-storage
 python -m pip install requests colorama
 pkg install -y python git
-termux-setup-storage
 cd ~
 git clone https://github.com/XyasZor/Repo-ScanGT.git
 cd Genetic
@@ -18,6 +18,7 @@ python main.py
 ```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y python3 python3-venv python3-pip git
+python3 -m pip install requests colorama
 cd ~
 git clone https://github.com/XyasZor/Repo-ScanGT.git
 cd Genetic
